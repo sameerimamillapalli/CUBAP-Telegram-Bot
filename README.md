@@ -1,6 +1,6 @@
 # CUBAP-Telegram-Bot
 Centurion University Andhra Pradesh information bot using Rasa Framework
-Framework bootstrapping conversational chatbot
+Framework used for bootstrapping conversational chatbot
 Components:-
 <ul>
   <li>RASA NLU</li>
