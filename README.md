@@ -20,8 +20,10 @@ Components:-
 
 ## Screenshots
 <p align="center">
- <img src="dash1.jpeg"><br>
- <img src="dash2.jpeg"><br>
+  <img src=""><br>
+  <img src=""><br>
+  <img src=""><br>
+  <img src=""><br>
 </p>
 
 
