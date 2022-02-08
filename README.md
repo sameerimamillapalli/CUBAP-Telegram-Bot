@@ -10,7 +10,7 @@ Components:-
 
 
 
-![image](https://user-images.githubusercontent.com/59050832/152954847-54224ef3-feab-44a9-85a3-d0fc6612d7df.png)
+
 
 
 
